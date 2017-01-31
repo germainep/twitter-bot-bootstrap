@@ -118,7 +118,7 @@ var favoriteTweet = function() {
 // favorite on bot start
 favoriteTweet()
     // favorite in every x minutes
-setInterval(favoriteTweet, 60000 * favoriteFrequency)
+setInterval(favoriteTweet, 6500000 * favoriteFrequency)
 
 // STREAM API for interacting with a USER =======
 // set up a user stream
