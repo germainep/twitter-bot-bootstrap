@@ -15,10 +15,10 @@
 // };
 
 module.exports = {
-  consumer_key: '',
-  consumer_secret: '',
-  access_token: '',
-  access_token_secret: '',
+  consumer_key: 'RAumEgPy53Mf1iQhkYeNynzQZ',
+  consumer_secret: 'RrRkXonaKUCma5GlmQlgs0jaZlZl1CO0SUmg9EUA8Xm6tdXRGt',
+  access_token: '324783067-8khOO245obCu88Ssa7lzA692NVFlImM9pwFq2lzR',
+  access_token_secret: 'bu5gAHGsAypUKRtMdBWoBaxU2rqqQL0NK2kZXw6j3ToxM',
 };
 
 

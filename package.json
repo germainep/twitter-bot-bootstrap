@@ -11,5 +11,18 @@
   "dependencies": {
     "twit": "^2.2.5",
     "unique-random-array": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germainep/twitter-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/germainep/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/germainep/twitter-bot#readme"
 }

@@ -1,6 +1,10 @@
 module.exports = {
     queryString: [
-        ''
+        'NodeJs',
+        'VueJs',
+        'AngularJS',
+        'MongoDb'
+
     ],
     queryStringSubQuery: [
         ''
